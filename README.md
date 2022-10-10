@@ -21,4 +21,4 @@ const Summary = {
   tools: [Nodejs, Express, Nestjs, GraphQL, 'RESTFul API', Docker, Git, MongoDB, 'Sequalize ORM', GraphQL, etc],
 }
 ```
-<i>I enjoy connecting with people. I'll be happy to meet you more, if you'd like to connect with me :)</i>
+<i>I enjoy connecting with people and I'll be happy to meet you, if you'd like to connect with me :)</i>
