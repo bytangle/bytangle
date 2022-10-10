@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @bytangle
-- 👀 I’m into Programming ((T|J)Script, Solidity) and I'm Proficient in Blockchain (Dapps) & Backend (Node.js)...
-- 🌱 I’m constantly learning to become better in my field...
-- 💞️ I’m looking to collaborate on Web(3.0) and (D)Apps development projects...
-- 📫 How to reach me [Mail](mailto:mredichaj@gmail.com)...
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
+  
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/joshua-edicha-a247a2184">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/joshuaedicha">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+</div>
 
-<!---
-bytangle/bytangle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi, I'm Edicha Joshua (Bytangle)
+```js
+const Joshua = {
+  pronouns: "he" | "him",
+  languages: [Javascript, Typescript],
+  tools: [Nodejs, Express, Nestjs, GraphQL, 'RESTFul API', Docker, etc]
+}
+```
