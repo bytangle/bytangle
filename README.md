@@ -18,7 +18,7 @@ const Summary = {
   fullName: "Edicha Joshua",
   pronouns: "he" | "him",
   languages: [Javascript, Typescript],
-  tools: [Nodejs, Express, Nestjs, GraphQL, 'RESTFul API', Docker, Git, MongoDB, 'Sequalize ORM', GraphQL, etc],
+  tools: [Nodejs, Express, Nestjs, GraphQL, 'RESTFul API', Docker, Git, MongoDB, 'Sequalize ORM', Kubernetes, etc],
 }
 ```
 <i>I enjoy connecting with people and I'll be happy to meet you, if you'd like to connect with me :)</i>
