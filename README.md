@@ -17,7 +17,7 @@
 const Summary = {
   fullName: "Edicha Joshua",
   pronouns: "he" | "him",
-  languages: [Javascript, Typescript],
+  languages: [Javascript, Typescript, Rust],
   tools: [Nodejs, Express, Nestjs, GraphQL, 'RESTFul API', AWS, Docker, Git, MongoDB, 'Sequalize ORM', Kubernetes, etc],
 }
 ```
